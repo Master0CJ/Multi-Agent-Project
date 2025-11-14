@@ -1,6 +1,5 @@
 # Multi-Agent-Project
 
-...existing code...
 # Advanced Agent — Developer Tools Research
 
 Lightweight research agents that use Firecrawl and OpenAI to find, scrape, and analyze developer tools and companies.
